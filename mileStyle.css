@@ -1,0 +1,50 @@
+Body {
+    background-image: url("graphics/brooklyn-edited.jpg");
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+
+    background-color: red;
+
+    color: white;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#heroImage {
+    position: absolute; 
+    padding: 15px;
+}
+
+ul {
+    font-size: 20px; 
+}
+
+li {
+    padding: 10px;
+}
+
+#ulPic {
+    padding: 5px;
+}
+
+/* mouse over the link to change color -- DOES NOT WORK on images */
+a:hover {
+    /* color:red; */
+    border-color: red;
+    border-style: solid;
+    border-width: 10px;
+}
+
+#bugle {
+    padding-top: 35px;
+}
+
