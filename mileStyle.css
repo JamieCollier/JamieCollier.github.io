@@ -8,7 +8,7 @@ Body {
     color: white;
 }
 
-#body {
+#main {
     position: absolute; 
     left: 20px;
 }
@@ -37,14 +37,14 @@ p {
 }
 
 #midBody {
-    position: absolute; 
-    top: 750px;
-    width: 500px;
-    left: 75px;
+   position: absolute; 
+   top: 750px; 
+    width: 1500px;
+   /* left: 75px; */
 }
 
 #bottomBody {
-    position: absolute; 
+   /* position: absolute; */
     top: 935px;
     left: 1150px;
   
